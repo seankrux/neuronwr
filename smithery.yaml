@@ -1,0 +1,4 @@
+runtime: "typescript"
+
+env:
+  NEURON_API_KEY: "${NEURON_API_KEY}"
