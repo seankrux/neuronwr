@@ -1,4 +1,7 @@
 {
+
+  "module": "./src/index.ts",
+
   "name": "neuronwr-mcp",
   "version": "0.1.0",
   "type": "module",
